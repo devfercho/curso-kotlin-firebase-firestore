@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767340359594",
+    "project_id": "crypto-trader-28b7c",
+    "storage_bucket": "crypto-trader-28b7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767340359594:android:f0a5f858d2a65e9fa9c5d3",
+        "android_client_info": {
+          "package_name": "com.platzi.android.firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767340359594-m5dnaungal6i6qu3n2ogogctpqvn9kmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKWBr71_e61zKwGcfhcDI66dPnQIzljc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767340359594-m5dnaungal6i6qu3n2ogogctpqvn9kmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
